@@ -1,1 +1,1 @@
-# HastTables
+# HashTables
